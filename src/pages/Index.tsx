@@ -10,6 +10,8 @@ import WhyMe from '@/components/WhyMe';
 import Contact from '@/components/Contact';
 import Footer from '@/components/Footer';
 
+
+
 const Index: React.FC = () => {
   return (
     <LanguageProvider>
